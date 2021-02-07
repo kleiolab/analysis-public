@@ -1,0 +1,12 @@
+name: py37_analysis_public
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.7
+  - ipykernel
+  - lxml
+  - pandas
+  - numpy
+  - jdcal

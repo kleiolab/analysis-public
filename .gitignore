@@ -1,4 +1,5 @@
 .DS_Store
+miniconda3/
 
 # Jupyter Notebook
 .ipynb_checkpoints

@@ -11,3 +11,4 @@ dependencies:
   - numpy
   - jdcal
   - dotmap
+  - seaborn
